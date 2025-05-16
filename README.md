@@ -14,5 +14,7 @@ Sample website with plenty of files for demos
 
 ## How to contribute
 
+Please fork
+
 ## Copyright
 this is a copyright notice 
