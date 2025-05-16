@@ -3,7 +3,11 @@
 
 # TEAM
 
+<<<<<<< HEAD
     <Chutakka> -- <QE TESTING> -- <twitter>
+=======
+    <Vinu> -- <QE TESTING> -- <twitter>
+>>>>>>> test
 
 # THANKS
 
