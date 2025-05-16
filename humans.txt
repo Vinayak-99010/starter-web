@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <Srushti> -- <QE TESTING> -- <twitter>
+    <Vinu> -- <QE TESTING> -- <twitter>
 
 # THANKS
 
